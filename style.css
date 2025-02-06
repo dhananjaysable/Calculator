@@ -21,7 +21,9 @@ body {
     border-radius: 16px;
     min-height: 100%;
 }
-
+h1{
+    text-align: center;
+}
 input {
     width: 320px;
     height: 5x;
